@@ -1,2 +1,2 @@
 # CS50
-CS50 ProblemSheets
+CS50 Practice
